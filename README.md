@@ -1,3 +1,3 @@
  # 👋 Hi, I’m @Ryfti
- I’m a studient of USP
+ I’m a Information System student at USP
  
